@@ -1,4 +1,4 @@
-# CV Website - Nguyễn Văn A
+# CV Website - Phan Quốc Huy
 
 ## Mô tả
 Trang web CV cá nhân hiện đại và responsive được thiết kế cho chuyên gia Khoa học Máy tính. Website có giao diện đẹp mắt, animations mượt mà và tối ưu cho cả desktop và mobile.
